@@ -1,8 +1,8 @@
 ### Hi there I'm Cengiz 👋
-###### Backend Developer | C# and .Net
+###### Backend Developer | C# and Java
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
-*- 🌱 I’m currently learning C# and .Net*
+*- 🌱 I’m currently learning C# and Java*
 
 *- 📫 How to reach me: cngztuglu@gmail.com*
 
