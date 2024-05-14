@@ -2,7 +2,7 @@
 ###### Backend Developer | C# and Java
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
-*- 🌱 I’m currently learning C# and Java*
+*- 🌱 I'm currently developing Java Spring Boot and .Net*
 
 *- 📫 How to reach me: cngztuglu@gmail.com*
 
