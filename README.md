@@ -1,5 +1,5 @@
 ### Hi there I'm Cengiz 👋
-###### Backend Developer | C# and Java
+###### Backend Developer | .Net and Java Spring Boot
 *- 🔭 I’m currently a student  at Manisa Celal Bayar University*
 
 *- 🌱 I'm currently developing Java Spring Boot and .Net*
